@@ -5,7 +5,7 @@ site_author: Ivan Cheban
 theme: mkdocs
 #Repo info
 repo_name: my-mkdocs
-repo_url: https://ivancheban.github.io/my-mkdocs
+repo_url: https://github.com/ivancheban/my-mkdocs
 
 nav:
 - Intro: index.md
