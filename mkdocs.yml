@@ -2,7 +2,7 @@
 site_name: Ivan's MkDocs site
 site_url: https://ivancheban.github.io/my-mkdocs/
 site_author: Ivan Cheban
-theme: material
+theme: mkdocs
 #Repo info
 repo_name: my-mkdocs
 repo_url: https://github.com/ivancheban/my-mkdocs
